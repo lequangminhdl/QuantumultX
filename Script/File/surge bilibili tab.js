@@ -1,4 +1,4 @@
-//@supported 7F47528C4665
+//@supported 7FD801C2983A
 //Customize whitelist
 let whitelist=['追番','推荐','直播','热门','影视']
 

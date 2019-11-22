@@ -1,4 +1,4 @@
-//@supported 7F47528C4665
+//@supported 7FD801C2983A
 let obj=JSON.parse($response.body)
 obj.account["pro_mode"] = true;
 obj.account["plan_type"] = "Premium";
