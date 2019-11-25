@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 /*
 看漫画极速版 unlock vip, currently off the shelf
 

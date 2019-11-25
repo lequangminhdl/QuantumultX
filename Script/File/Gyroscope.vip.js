@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 
 let obj = JSON.parse($response.body);
 obj.user["active_until_time"] = "2099-01-01T00:00:00Z";

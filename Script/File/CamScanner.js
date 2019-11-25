@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 /*
 CamScanner unlocks pro, Cloud scanning is not available.
 

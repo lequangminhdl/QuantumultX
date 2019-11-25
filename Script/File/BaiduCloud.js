@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 /*
 Baidu netdisc unlocks online video play speed.
 

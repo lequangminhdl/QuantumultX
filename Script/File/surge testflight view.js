@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 let body = $response.body
 body=JSON.parse(body)
 body['data']['status']='OPEN'

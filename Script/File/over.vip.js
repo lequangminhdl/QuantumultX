@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 var body = $response.body;
 let obj = JSON.parse(body);
 obj.user.subscription["isSubscriptionActive"] = true;

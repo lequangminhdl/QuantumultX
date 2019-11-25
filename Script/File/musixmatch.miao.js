@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 let obj=JSON.parse($response.body);
 let usr=obj.message.body;
 usr.app_config.trial=false;

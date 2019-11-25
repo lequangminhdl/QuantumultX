@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 /*
 NiChi app unlocks material
 Because QX limits the maximum rewrite size of the response body, So this script may not work under a certain version of QX.

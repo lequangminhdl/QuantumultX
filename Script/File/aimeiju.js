@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 /*
 爱美剧 unlock vip
 app download link : app.meiju2018.com

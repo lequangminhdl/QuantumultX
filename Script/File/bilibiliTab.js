@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 /*
 bilibili home page module customization whitelist. by onewayticket255
 

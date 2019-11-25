@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 let url = $request.url
 let regex = /vmid=(\d*)/
 let vmid= regex.exec(url)

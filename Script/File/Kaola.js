@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 /*
 [Script]
 http-request ^https://sp\.kaola\.com/api/openad$ script-path=https://Choler.github.io/Surge/Script/Kaola.js

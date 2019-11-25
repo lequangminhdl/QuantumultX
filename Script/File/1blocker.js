@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 let obj = JSON.parse($response.body);
 let sub= obj["subscriber"];
 sub["subscriptions"]["blocker.ios.subscription.lifetime"]= 

@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 /*
 KuWo music unlock lossless download, need to use with KuWo music VIP script. this script is only compatible with surge 4.0
 

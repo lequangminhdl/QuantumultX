@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 var obj = JSON.parse($response.body);
 if(obj.user.is_on_free_trial == false)
 {
