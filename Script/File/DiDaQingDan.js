@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 /*
 TickTick (Tick list) unlock pro
 QX:

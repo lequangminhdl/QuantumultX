@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 /*using surge cron*/
 
 const region = "vn"

@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 body = $response.body.replace(/"lastVipExpireTime".*\d{10}\n/, "");
 let obj = JSON.parse(body);
 obj["data"]["sessionsKey"]= "sm1.mfc_.1009719336.10.vjnZ26bVD1L1HnifQLyq5MbVD1LfNpGLQDphhpHVD1K";

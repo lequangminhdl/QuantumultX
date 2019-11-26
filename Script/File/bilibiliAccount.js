@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 /*
 bilibili remove some account modules. by onewayticket255
 

@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 let url = 'http://132.145.127.5:7777/pixivtoken'
 //DO NOT ABUSE
 

@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 /*
 Termius unlocks local pro v 
 (From the author @Maasea)

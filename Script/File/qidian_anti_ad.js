@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 var resp = {};
 resp.Message = "";
 resp.Result = 0;

@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 /*
 XiaoXiaoYingShi unlock Vip
 QX:

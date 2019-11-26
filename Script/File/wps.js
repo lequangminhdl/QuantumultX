@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 var obj = JSON.parse($response.body);
 
 var id = obj.userid;

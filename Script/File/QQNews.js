@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 /*
 [Script]
 http-response https://r\.inews\.qq.com\/get(QQNewsUnreadList|RecommendList) requires-body=1,max-size=-1,script-path=https://Choler.github.io/Surge/Script/QQNews.js

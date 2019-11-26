@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 /*
 bilibili fan drama open 1080P+
 

@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 //Enter the appid, for example, Quantumultx: https://testflight.apple.com/join/VCIvwk2g
 //appid is VCIvwk2g
 

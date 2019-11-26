@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 /*
 README：https://github.com/yichahucha/surge/tree/master
  */

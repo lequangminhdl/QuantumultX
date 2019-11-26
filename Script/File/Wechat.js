@@ -1,4 +1,3 @@
-//@supported 7FD801C2983A
 /*
 Remove the WeChat public account bottom ad
 
